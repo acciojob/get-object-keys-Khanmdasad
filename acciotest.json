@@ -1,0 +1,4 @@
+{
+  "testRepo": "get-object-keys-solution",
+  "pathToFile": "cypress/integration/tests/test.spec.js"
+}
